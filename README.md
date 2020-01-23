@@ -4,43 +4,36 @@ ___
   
 ## Recommended Tools
   
-___
   
 #### Visual Studio Code
 Visual Studio Code is a source-code editor developed by Microsoft for Windows, Linux and macOS. It includes support for debugging, embedded Git control and GitHub, syntax highlighting, intelligent code completion, snippets, and code refactoring.  
 [Read more on Wikipedia](https://en.wikipedia.org/wiki/Visual_Studio_Code)  
 [Download VS Code](https://code.visualstudio.com/)  
-___
   
 #### GIT
 Git is a distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed, data integrity, and support for distributed, non-linear workflows.  
 [Read more on Wikipedia](https://en.wikipedia.org/wiki/Git)  
 [Download GIT](https://git-scm.com/downloads)  
-___
   
 #### GitHub Desktop - Electron
 GitHub Desktop is an open source Electron-based GitHub app. It is written in TypeScript and uses React.  
 [Read more on Wikipedia](https://en.wikipedia.org/wiki/Atlassian)  
-[Download Sourcetree](https://desktop.github.com/)  
-___
+[Download GitHub Desktop](https://desktop.github.com/)  
   
 #### Sourcetree - Atlassian
 A Git GUI that offers a visual representation of your repositories. Sourcetree is a free Git client for Windows and Mac.  
 [Read more on Wikipedia](https://en.wikipedia.org/wiki/Electron_(software_framework))  
 [Download Sourcetree](https://www.sourcetreeapp.com/)  
-___
   
 #### GitKraken - Axosoft
 The Git GUI Client for Windows/Mac/Linux development.  
 [Read more on Wikipedia](https://en.wikipedia.org/wiki/Axosoft)  
 [Download GitKraken](https://www.gitkraken.com/)  
-___
   
 #### XAMPP
 XAMPP is a free and open-source cross-platform web server solution stack package developed by Apache Friends, consisting mainly of the Apache HTTP Server, MariaDB database, and interpreters for scripts written in the PHP and Perl programming languages.  
 [Read more on Wikipedia](https://en.wikipedia.org/wiki/FileZilla)  
 [Download XAMPP](https://www.apachefriends.org/index.html)  
-___
   
 #### FileZilla
 FileZilla is a free software, cross-platform FTP application, consisting of FileZilla Client and FileZilla Server. Client binaries are available for Windows, Linux, and macOS, server binaries are available for Windows only.   
@@ -50,17 +43,14 @@ ___
   
 ## Recommended Plugins
   
-___
   
 #### EditorConfig
 EditorConfig helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs. The EditorConfig project consists of a file format for defining coding styles and a collection of text editor plugins that enable editors to read the file format and adhere to defined styles. EditorConfig files are easily readable and they work nicely with version control systems.  
 [Download EditorConfig](https://editorconfig.org/#download)  
-___
   
 #### Live SASS Compiler
 A VSCode Extension that help you to compile/transpile your SASS/SCSS files to CSS files at realtime with live browser reload.  
 [Download Live SASS Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass)  
-___
   
 #### Autoprefixer
 Parse CSS and add vendor prefixes automatically.  
@@ -70,7 +60,6 @@ ___
   
 ## Popular Methodologies
   
-___
   
 #### BEM - Block Element Modifier
 Block Element Modifier is a methodology that helps you to create reusable components and code sharing in front-end development  
@@ -121,7 +110,6 @@ We can have a normal button for usual cases, and two more states for different o
 **Structure** - BEM methodology gives your CSS code a solid structure that remains simple and easy to understand.  
   
 [Read the full documentation of BEM](http://getbem.com/introduction/)  
-___
   
 #### SMACSS - Scalable and Modular Architecture for CSS
 SMACSS is a way to examine your design process and as a way to fit those rigid frameworks into a flexible thought process. It is an attempt to document a consistent approach to site development when using CSS.  
@@ -157,7 +145,6 @@ By separating rules into the five categories, naming convention is beneficial fo
 ```
   
 [Read the full documentation of SMACSS](http://smacss.com/)  
-___
   
 #### ITCSS - Inverted Triangle CSS
 ITCSS stands for Inverted Triangle CSS and it helps you to organize your project CSS files in such a way that you can better deal with (not always easy-to-deal with) CSS specifics like global namespace, cascade and selectors specificity.  
@@ -191,7 +178,6 @@ ___
   
 ## Included Template
   
-___
   
 A scalable and maintainable architecture for building responsive, mobile-first web apps or sites.
 This will helps you build not only fast but scalable and maintainable web apps or sites. With this you have a package that is built with the combined knowledge and effort of some great developers, from their methodology, codes, packages, etc...  
@@ -215,8 +201,7 @@ web-dev-starter-pack/
     │   └── script.js
     └── source/
 ```
-___
-  
+    
 Now you can copy files from **dist** folder to your projects root folder and start your project with the template's code base.  
   
 #### Theming
@@ -242,7 +227,6 @@ Customize Moonshine with CSS variables or SASS variables for global style prefer
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 ```
-___
   
 #### Breakpoints
 This template uses a handful of media queries to create sensible breakpoints for layouts and interfaces. These breakpoints are mostly based on minimum viewport widths and allow us to scale up elements as the viewport changes.  
@@ -263,7 +247,6 @@ This template uses a handful of media queries to create sensible breakpoints for
 // Extra large devices (1200px and up)
 @media (min-width: 1200px) {...}
 ```
-___
   
 #### Accessibility
 Content which should be visually hidden, but remain accessible to assistive technologies such as screen readers, can be styled using the .sr-only class. This will ensure that the control becomes visible once focused (for sighted keyboard users).  
@@ -274,7 +257,6 @@ Content which should be visually hidden, but remain accessible to assistive tech
   This action is not reversible
 </p>
 ```
-___
   
 For visually hidden interactive controls, such as traditional “skip” links, .sr-only can be combined with the .sr-only--focusable class. This will ensure that the control becomes visible once focused (for sighted keyboard users).  
   
@@ -338,7 +320,6 @@ Import order:
 @import "component.css";
 @import "utility.css";
 ```
-___
   
 #### Samples
 Here are some sample of what to expect on this template, For more info please check *.css.  
@@ -532,7 +513,6 @@ ___
   
 ## How To?
     
-___
   
 **How to use template** - This template uses SASS code base but all you need is the compiled code base located at "dist" folder, you can copy files from dist folder to your projects root folder and start your project with the template's code base.  
 ```
