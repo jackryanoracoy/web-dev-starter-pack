@@ -1,8 +1,9 @@
 # Web Dev Starter Pack (WDSP) 
 A Simple Web Development Tools and Guides - Tools, Methodologies, Templates, etc...  
-___
+
   
-## Recommended Tools
+  
+## Recommended Tools 
   
   
 #### Visual Studio Code
@@ -537,8 +538,6 @@ e.g. changed line "$resposive: true;" with "$resposive: false;".
 ___
   
 ## Other Templates
-    
-___
   
 **Moonshine** - A scalable and maintainable architecture.  
 [By: Jack Ryan Oracoy](mailto:jackryanoracoy@gmail.com)  
