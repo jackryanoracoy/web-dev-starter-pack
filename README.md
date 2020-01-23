@@ -1,6 +1,5 @@
 # Web Dev Starter Pack (WDSP) 
-A Simple Web Development Tools and Guides - Tools, Methodologies, Templates, etc...  
-
+A Simple Educational Guide For Startup Web Developer - Tools, Methodologies, Templates, etc...  
   
   
 ## Recommended Tools 
