@@ -29,16 +29,6 @@ A Git GUI that offers a visual representation of your repositories. Sourcetree i
 The Git GUI Client for Windows/Mac/Linux development.  
 [Read more on Wikipedia](https://en.wikipedia.org/wiki/Axosoft)  
 [Download GitKraken](https://www.gitkraken.com/)  
-  
-#### XAMPP
-XAMPP is a free and open-source cross-platform web server solution stack package developed by Apache Friends, consisting mainly of the Apache HTTP Server, MariaDB database, and interpreters for scripts written in the PHP and Perl programming languages.  
-[Read more on Wikipedia](https://en.wikipedia.org/wiki/FileZilla)  
-[Download XAMPP](https://www.apachefriends.org/index.html)  
-  
-#### FileZilla
-FileZilla is a free software, cross-platform FTP application, consisting of FileZilla Client and FileZilla Server. Client binaries are available for Windows, Linux, and macOS, server binaries are available for Windows only.   
-[Read more on Wikipedia](https://en.wikipedia.org/wiki/XAMPP)  
-[Download FileZilla](https://filezilla-project.org/)  
 ___
   
 ## Recommended Plugins
@@ -173,7 +163,7 @@ _______________ Reach _______________
   
 **Utilities** - Utilities and helper classes with ability to override anything which goes before in the triangle, eg. hide helper class.  
   
-No official documentation for ITCSS yet, but you can try [Moonshine](https://bitbucket.org/osp-jackryanoracoy/moonshine/) and [Twilightbloom](https://bitbucket.org/osp-jackryanoracoy/twilightbloom/) both are using ITCSS methodology.  
+No official documentation for ITCSS yet, but you can try [Moonshine](https://github.com/jackryanoracoy/moonshine) and [Twilightbloom](https://github.com/jackryanoracoy/twilightbloom/) both are using ITCSS methodology.  
 ___
   
 ## Included Template
@@ -540,8 +530,8 @@ ___
   
 **Moonshine** - A scalable and maintainable architecture.  
 [By: Jack Ryan Oracoy](mailto:jackryanoracoy@gmail.com)  
-[GitHub](https://github.com/jackryanoracoy/moonshine) | [BitBucket](https://bitbucket.org/osp-jackryanoracoy/moonshine/src/master/) | [Website](https://jackryanoracoy.github.io//moonshine)  
+[GitHub](https://github.com/jackryanoracoy/moonshine) | [Website](https://jackryanoracoy.github.io//moonshine)  
 
 **Twilightbloom** - A simple yet scalable and maintainable architecture (JA).  
 [By: Jack Ryan Oracoy](mailto:jackryanoracoy@gmail.com)  
-[GitHub](https://github.com/jackryanoracoy/twilightbloom) | [BitBucket](https://bitbucket.org/osp-jackryanoracoy/twilightbloom/src/master/) | [Website](https://jackryanoracoy.github.io/twilightbloom)  
+[GitHub](https://github.com/jackryanoracoy/twilightbloom) | [Website](https://jackryanoracoy.github.io/twilightbloom)  
