@@ -1,0 +1,27 @@
+// Web Dev Starter Pack
+// Simple, Scalable, and Maintainable Architecture.
+//
+// Author:   Jack Ryan Oracoy
+// Company:  OSP Cebu Corporation
+// Email:    jack.oracoy@osp-cebu.com.ph
+
+/*--------------------------------------------------------------
+ Custom Properties (CSS Varialbles)
+--------------------------------------------------------------*/
+
+:root {
+
+  /* theme color */
+  @each $color, $value in $theme-colors {
+    --#{$color}: #{$value};
+  }
+
+  /* grey */
+  @each $shade, $value in $greys {
+    --grey-#{$shade}: #{$value};
+  }
+
+  /* font-family */
+  --font-family-sans-serif: #{inspect($font-primary)};
+  --font-family-monospace: #{inspect($monospace)};
+}

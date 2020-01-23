@@ -1,0 +1,38 @@
+/*!
+ * Web Dev Starter Pack
+ * Scalable and Maintainable Architecture.
+ *
+ * Author:   Jack Ryan Oracoy (JACKRO)
+ * Company:  OSP Cebu Corporation
+ * Email:    jack.oracoy@osp-cebu.com.ph
+ */
+
+
+/*--------------------------------------------------------------
+ Custom Properties (CSS Varialbles)
+--------------------------------------------------------------*/
+:root {
+  /* theme color */
+  --primary: #880E4F;
+  --secondary: #C51162;
+  --success: #4CAF50;
+  --info: #00BCD4;
+  --warning: #FF9800;
+  --danger: #F44336;
+  --light: #FAFAFA;
+  --dark: #212121;
+  /* grey */
+  --grey-50: #FAFAFA;
+  --grey-100: #F5F5F5;
+  --grey-200: #EEEEEE;
+  --grey-300: #E0E0E0;
+  --grey-400: #BDBDBD;
+  --grey-500: #9E9E9E;
+  --grey-600: #757575;
+  --grey-700: #616161;
+  --grey-800: #424242;
+  --grey-900: #212121;
+  /* font-family */
+  --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}

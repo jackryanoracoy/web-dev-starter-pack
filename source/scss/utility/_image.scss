@@ -1,0 +1,13 @@
+// Web Dev Starter Pack
+// Simple, Scalable, and Maintainable Architecture.
+//
+// Author:   Jack Ryan Oracoy
+// Company:  OSP Cebu Corporation
+// Email:    jack.oracoy@osp-cebu.com.ph
+
+/*--------------------------------------------------
+  Image
+--------------------------------------------------*/
+
+.u-image-fluid { max-width: 100%; }
+.u-image-crispt { @include img-render-crisp(); }

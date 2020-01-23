@@ -1,0 +1,91 @@
+// Web Dev Starter Pack
+// Simple, Scalable, and Maintainable Architecture.
+//
+// Author:   Jack Ryan Oracoy
+// Company:  OSP Cebu Corporation
+// Email:    jack.oracoy@osp-cebu.com.ph
+
+/*--------------------------------------------------
+  Form
+--------------------------------------------------*/
+
+.c-form {
+  position: relative;
+
+  &--fuid { width: 100%; }
+
+  & label {
+    display: block;
+    text-transform: uppercase;
+  }
+
+  & textarea {
+    width: 100%;
+    max-width: 100%;
+    height: $textarea-height;
+    min-height: $input-height;
+    resize: vertical;
+  }
+
+  & input[type=checkbox] {
+    width: 10px;
+    height: 10px;
+    vertical-align: middle;
+  }
+
+  & input[type=text],
+  & input[type=email],
+  & input[type=number] {
+    width: 100%;
+    height: $input-height;
+  }
+
+  & textarea,
+  & input[type=text],
+  & input[type=email],
+  & input[type=number] {
+    padding: 10px;
+    color: inherit;
+    font-size: $font-md;
+    font-family: inherit;
+    font-weight: inherit;
+    line-height: $line-height-normal;
+    background-color: transparent;
+    border: 1px solid $grey-600;
+  }
+
+  & button,
+  & input[type=button],
+  & input[type=submit] {
+    cursor: pointer;
+    border: none;
+  }
+
+  & button:disabled:hover,
+  & input[type=button]:disabled:hover,
+  & input[type=submit]:disabled:hover {
+    cursor: auto;
+    opacity: 0.5;
+    box-shadow: none;
+  }
+
+  & button,
+  & textarea,
+  & input[type=text],
+  & input[type=email],
+  & input[type=button],
+  & input[type=number],
+  & input[type=submit] {
+    outline: none;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+  }
+
+  & ::placeholder {
+    color: inherit;
+    font-size: $font-md;
+    line-height: $input-height;
+  }
+}
+
+

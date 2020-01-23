@@ -1,0 +1,28 @@
+/*!
+ * Web Dev Starter Pack
+ * Scalable and Maintainable Architecture.
+ *
+ * Author:   Jack Ryan Oracoy (JACKRO)
+ * Company:  OSP Cebu Corporation
+ * Email:    jack.oracoy@osp-cebu.com.ph
+ */
+
+ $responsive: true;
+
+ @import 'setting/variable';
+ @import 'setting/mixin';
+ @import 'utility/screen-reader';
+ @import 'utility/clearfix';
+ @import 'utility/display';
+ @import 'utility/hidden';
+ @import 'utility/float';
+ @import 'utility/width-height';
+ @import 'utility/padding';
+ @import 'utility/margin';
+ @import 'utility/typography';
+ @import 'utility/list';
+ @import 'utility/border';
+ @import 'utility/color';
+ @import 'utility/background';
+ @import 'utility/overflow';
+ @import 'utility/image';
