@@ -530,7 +530,7 @@ ___
   
 **Moonshine** - A scalable and maintainable architecture.  
 [By: Jack Ryan Oracoy](mailto:jackryanoracoy@gmail.com)  
-[GitHub](https://github.com/jackryanoracoy/moonshine) | [Website](https://jackryanoracoy.github.io//moonshine)  
+[GitHub](https://github.com/jackryanoracoy/moonshine) | [Website](https://jackryanoracoy.github.io/moonshine)  
 
 **Twilightbloom** - A simple yet scalable and maintainable architecture (JA).  
 [By: Jack Ryan Oracoy](mailto:jackryanoracoy@gmail.com)  
